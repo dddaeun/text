@@ -8,11 +8,12 @@
     "@testing-library/user-event": "^7.2.1",
     "draft-js": "^0.11.7",
     "draftjs-to-html": "^0.9.1",
+    "global": "^4.4.0",
     "html-to-draftjs": "^1.5.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-draft-wysiwyg": "^1.14.5",
-    "react-scripts": "3.4.3"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/codebucks27/ReactJs-Text-Editor.git",
+  "author": "dddaeun <angel7839@duksung.co.kr>",
+  "license": "MIT"
 }
